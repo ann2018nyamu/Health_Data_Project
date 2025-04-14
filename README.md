@@ -40,7 +40,7 @@ and to identify high-risk areas that require targeted healthcare investments.
 
 ## Team Members
 
-This project was collaboratively developed by Group 6:
+This project was collaboratively developed by Group 6 members:
 - Daisy Igamba 
 - Ann Nyamu
 - Vincent Mutwiri
